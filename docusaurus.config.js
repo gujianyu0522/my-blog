@@ -65,10 +65,6 @@ const config = {
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: '主页',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
         items: [
           {
             type: 'docSidebar',
